@@ -1,24 +1,24 @@
 {
-  "posts": [
+  [
     {
       "id": 1,
       "name": "Chika Mena",
-      "email": "hikasmena@gmail.com
+      "email": "hikasmena@gmail.com"
     },
     {
       "id": 2,
       "name": "Monday Okkal",
-      "email": "okkale@onemail.com
+      "email": "okkale@onemail.com"
     },
     {
       "id": 3,
       "name": "Teddy Bob",
-      "email": "teddybob@worldmail.com
+      "email": "teddybob@worldmail.com"
     },
     {
       "id": 4,
       "name": "Mikal Waybo",
-      "email": "mikalhell@tornadomail.com
+      "email": "mikalhell@tornadomail.com"
     }
   ]
 
